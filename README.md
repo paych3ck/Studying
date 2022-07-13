@@ -1,5 +1,6 @@
 # Studying
 
+```bash
 Studying
 ├── itResume <= Решения задач с сайта [itresume.ru](https://itresume.ru/problems).
 │   └── Python <= Python задачи.
@@ -10,3 +11,4 @@ Studying
 │   └── JavaProgramming <= Лабораторные работы по курсу программирования на Java.
 └── ThirdSemester <= Работы, связанные с программированием, выполненные на протяжении третьего семестра обучения.
 │   └── JavaProgramming <= Лабораторные работы по курсу программирования на Java.
+```
