@@ -2,7 +2,7 @@
 
 ```bash
 Studying
-├── itResume <= Решения задач с сайта [itresume.ru](https://itresume.ru/problems).
+├── itResume <= Решения задач с сайта itresume.ru.
 │   └── Python <= Python задачи.
 │   └── SQL <= SQL задачи.
 │   └── Тесты <= Решения тестов по Python и SQL.
