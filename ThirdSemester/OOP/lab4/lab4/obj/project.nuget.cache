@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoBZFQC1Z2nxuaekuvhTPWrgPLD3JAmhFlW/4zcrjdfrjgcPp0VI0W/kFe9DZEFHVLHa+RDGHGm1xggBCoQnIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\katae\\source\\repos\\LAB4A\\LAB4A\\LAB4A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\katae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\katae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\katae\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

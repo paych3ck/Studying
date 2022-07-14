@@ -1,0 +1,16 @@
+C:\Users\katae\source\repos\LAB5A\LAB5A\bin\Debug\netcoreapp3.1\LAB5A.exe
+C:\Users\katae\source\repos\LAB5A\LAB5A\bin\Debug\netcoreapp3.1\LAB5A.deps.json
+C:\Users\katae\source\repos\LAB5A\LAB5A\bin\Debug\netcoreapp3.1\LAB5A.runtimeconfig.json
+C:\Users\katae\source\repos\LAB5A\LAB5A\bin\Debug\netcoreapp3.1\LAB5A.runtimeconfig.dev.json
+C:\Users\katae\source\repos\LAB5A\LAB5A\bin\Debug\netcoreapp3.1\LAB5A.dll
+C:\Users\katae\source\repos\LAB5A\LAB5A\bin\Debug\netcoreapp3.1\LAB5A.pdb
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.Form1.resources
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.AssemblyInfoInputs.cache
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.AssemblyInfo.cs
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.dll
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.pdb
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.genruntimeconfig.cache
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\LAB5A\LAB5A\obj\Debug\netcoreapp3.1\LAB5A.GeneratedMSBuildEditorConfig.editorconfig

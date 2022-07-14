@@ -1,0 +1,16 @@
+C:\Users\katae\source\repos\LAB4A\LAB4A\bin\Debug\netcoreapp3.1\LAB4A.exe
+C:\Users\katae\source\repos\LAB4A\LAB4A\bin\Debug\netcoreapp3.1\LAB4A.deps.json
+C:\Users\katae\source\repos\LAB4A\LAB4A\bin\Debug\netcoreapp3.1\LAB4A.runtimeconfig.json
+C:\Users\katae\source\repos\LAB4A\LAB4A\bin\Debug\netcoreapp3.1\LAB4A.runtimeconfig.dev.json
+C:\Users\katae\source\repos\LAB4A\LAB4A\bin\Debug\netcoreapp3.1\LAB4A.dll
+C:\Users\katae\source\repos\LAB4A\LAB4A\bin\Debug\netcoreapp3.1\LAB4A.pdb
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.Form1.resources
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.AssemblyInfoInputs.cache
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.AssemblyInfo.cs
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.dll
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.pdb
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.genruntimeconfig.cache
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\LAB4A\LAB4A\obj\Debug\netcoreapp3.1\LAB4A.GeneratedMSBuildEditorConfig.editorconfig

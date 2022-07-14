@@ -1,0 +1,11 @@
+C:\Users\katae\source\repos\LAB8A\LAB8A\bin\Debug\LAB8A.exe.config
+C:\Users\katae\source\repos\LAB8A\LAB8A\bin\Debug\LAB8A.exe
+C:\Users\katae\source\repos\LAB8A\LAB8A\bin\Debug\LAB8A.pdb
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.csproj.SuggestedBindingRedirects.cache
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.Form1.resources
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.Properties.Resources.resources
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.exe
+C:\Users\katae\source\repos\LAB8A\LAB8A\obj\Debug\LAB8A.pdb

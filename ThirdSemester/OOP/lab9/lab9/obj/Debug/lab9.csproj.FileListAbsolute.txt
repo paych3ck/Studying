@@ -1,0 +1,11 @@
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.csproj.SuggestedBindingRedirects.cache
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.Properties.Resources.resources
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\LAB9A\LAB9A\bin\Debug\LAB9A.exe.config
+C:\Users\katae\source\repos\LAB9A\LAB9A\bin\Debug\LAB9A.exe
+C:\Users\katae\source\repos\LAB9A\LAB9A\bin\Debug\LAB9A.pdb
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.Form1.resources
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.exe
+C:\Users\katae\source\repos\LAB9A\LAB9A\obj\Debug\LAB9A.pdb

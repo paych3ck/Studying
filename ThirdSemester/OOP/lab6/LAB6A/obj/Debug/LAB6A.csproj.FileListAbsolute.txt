@@ -1,0 +1,12 @@
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.csproj.SuggestedBindingRedirects.cache
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.Form1.resources
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.Form2.resources
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.Properties.Resources.resources
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\LAB6A\LAB6A\bin\Debug\LAB6A.exe.config
+C:\Users\katae\source\repos\LAB6A\LAB6A\bin\Debug\LAB6A.exe
+C:\Users\katae\source\repos\LAB6A\LAB6A\bin\Debug\LAB6A.pdb
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.exe
+C:\Users\katae\source\repos\LAB6A\LAB6A\obj\Debug\LAB6A.pdb

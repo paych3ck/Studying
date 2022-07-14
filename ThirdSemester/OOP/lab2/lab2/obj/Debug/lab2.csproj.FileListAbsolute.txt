@@ -1,0 +1,11 @@
+C:\Users\katae\source\repos\Lab2A\Lab2A\bin\Debug\Lab2A.exe.config
+C:\Users\katae\source\repos\Lab2A\Lab2A\bin\Debug\Lab2A.exe
+C:\Users\katae\source\repos\Lab2A\Lab2A\bin\Debug\Lab2A.pdb
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.Form1.resources
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.Properties.Resources.resources
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.csproj.GenerateResource.cache
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.exe
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.pdb
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.csproj.AssemblyReference.cache
+C:\Users\katae\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.csproj.SuggestedBindingRedirects.cache
